@@ -1,0 +1,94 @@
+2022-05-16 16:05:603 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-05-16 16:05:02 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-05-16 17:05:39 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-05-16 17:05:24 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-05-16 17:05:518 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-05-16 17:05:762 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-05-16 18:05:192 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-05-16 18:05:550 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-05-16 18:05:192 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-05-16 18:05:774 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-05-16 18:05:442 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-05-16 18:05:819 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-05-16 18:05:408 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-05-16 18:05:784 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-05-16 18:05:118 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-05-16 18:05:790 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-05-16 18:05:66 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-05-16 18:05:889 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-05-16 18:05:173 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-05-17 09:05:349 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-05-17 09:05:847 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-05-17 09:05:938 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-05-17 09:05:505 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-05-17 09:05:328 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-05-17 09:05:719 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-05-17 10:05:862 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-05-19 20:05:988 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-05-19 20:05:277 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-05-19 20:05:978 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-05-19 21:05:221 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-05-19 21:05:509 INFO  HomePage :46 - clickOnSignIn : [[ChromeDriver: chrome on WINDOWS (c3fff32deab9bc3d23965b3d7daa6d7e)] -> xpath: //a[contains(text(),'Sign in')]]
+2022-05-19 21:05:42 INFO  HomePage :76 - clickOnEmailToCreateAccount : [[ChromeDriver: chrome on WINDOWS (c3fff32deab9bc3d23965b3d7daa6d7e)] -> xpath: //input[@id='email_create']]
+2022-05-19 21:05:269 INFO  HomePage :61 - clickOnCreateAccount : [[ChromeDriver: chrome on WINDOWS (c3fff32deab9bc3d23965b3d7daa6d7e)] -> xpath: //body[1]/div[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/form[1]/div[1]/div[3]/button[1]/span[1]]
+2022-05-19 21:05:712 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-05-19 21:05:257 INFO  HomePage :46 - clickOnSignIn : [[ChromeDriver: chrome on WINDOWS (283bea888d0481298c963ef43374e0d8)] -> xpath: //a[contains(text(),'Sign in')]]
+2022-05-19 21:05:309 INFO  HomePage :70 - authenticationField : [[ChromeDriver: chrome on WINDOWS (283bea888d0481298c963ef43374e0d8)] -> xpath: //h1[contains(text(),'Authentication')]]
+2022-05-19 21:05:501 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-05-19 21:05:113 INFO  HomePage :31 - clickOnWomen : [[ChromeDriver: chrome on WINDOWS (4a79098255c0446509b363a33e7ad38b)] -> xpath: //header/div[3]/div[1]/div[1]/div[6]/ul[1]/li[1]/a[1]]
+2022-05-19 21:05:153 INFO  HomePage :68 - clickWomenText : [[ChromeDriver: chrome on WINDOWS (4a79098255c0446509b363a33e7ad38b)] -> xpath: //body/div[@id='page']/div[2]/div[1]/div[3]/div[2]/h1[1]/span[1]]
+2022-05-19 21:05:357 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-05-19 21:05:141 INFO  HomePage :46 - clickOnSignIn : [[ChromeDriver: chrome on WINDOWS (9400456efe31a90e123af19451ce9942)] -> xpath: //a[contains(text(),'Sign in')]]
+2022-05-19 21:05:367 INFO  HomePage :43 - clickOnEmail : [[ChromeDriver: chrome on WINDOWS (9400456efe31a90e123af19451ce9942)] -> xpath: //input[@id='email']]
+2022-05-19 21:05:719 INFO  HomePage :49 - clickOnPassword : [[ChromeDriver: chrome on WINDOWS (9400456efe31a90e123af19451ce9942)] -> xpath: //input[@id='passwd']]
+2022-05-19 21:05:746 INFO  HomePage :55 - clickOnSignIn : Proxy element for: DefaultElementLocator 'By.xpath: //body[1]/div[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[2]/form[1]/div[1]/p[2]/button[1]/span[1]'
+2022-05-19 21:05:257 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-05-19 21:05:570 INFO  HomePage :46 - clickOnSignIn : [[ChromeDriver: chrome on WINDOWS (ec994043a08ae67110416a7d50a72628)] -> xpath: //a[contains(text(),'Sign in')]]
+2022-05-19 21:05:09 INFO  HomePage :43 - clickOnEmail : [[ChromeDriver: chrome on WINDOWS (ec994043a08ae67110416a7d50a72628)] -> xpath: //input[@id='email']]
+2022-05-19 21:05:245 INFO  HomePage :49 - clickOnPassword : [[ChromeDriver: chrome on WINDOWS (ec994043a08ae67110416a7d50a72628)] -> xpath: //input[@id='passwd']]
+2022-05-19 21:05:627 INFO  HomePage :55 - clickOnSignIn : Proxy element for: DefaultElementLocator 'By.xpath: //body[1]/div[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[2]/form[1]/div[1]/p[2]/button[1]/span[1]'
+2022-05-19 21:05:664 INFO  HomePage :36 - errormessage : [[ChromeDriver: chrome on WINDOWS (ec994043a08ae67110416a7d50a72628)] -> css selector: body.authentication.hide-left-column.hide-right-column.lang_en:nth-child(2) div.columns-container div.container div.row:nth-child(3) div.center_column.col-xs-12.col-sm-12 div.alert.alert-danger ol:nth-child(2) > li:nth-child(1)]
+2022-05-19 21:05:366 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-05-19 21:05:154 INFO  HomePage :46 - clickOnSignIn : [[ChromeDriver: chrome on WINDOWS (abff9f9f25b35b0f21f8235f2b6b0cb3)] -> xpath: //a[contains(text(),'Sign in')]]
+2022-05-19 21:05:554 INFO  HomePage :43 - clickOnEmail : [[ChromeDriver: chrome on WINDOWS (abff9f9f25b35b0f21f8235f2b6b0cb3)] -> xpath: //input[@id='email']]
+2022-05-19 21:05:938 INFO  HomePage :49 - clickOnPassword : [[ChromeDriver: chrome on WINDOWS (abff9f9f25b35b0f21f8235f2b6b0cb3)] -> xpath: //input[@id='passwd']]
+2022-05-19 21:05:101 INFO  HomePage :55 - clickOnSignIn : Proxy element for: DefaultElementLocator 'By.xpath: //body[1]/div[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[2]/form[1]/div[1]/p[2]/button[1]/span[1]'
+2022-05-19 21:05:143 INFO  HomePage :36 - errormessage : [[ChromeDriver: chrome on WINDOWS (abff9f9f25b35b0f21f8235f2b6b0cb3)] -> css selector: body.authentication.hide-left-column.hide-right-column.lang_en:nth-child(2) div.columns-container div.container div.row:nth-child(3) div.center_column.col-xs-12.col-sm-12 div.alert.alert-danger ol:nth-child(2) > li:nth-child(1)]
+2022-05-19 21:05:272 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-05-19 21:05:118 INFO  HomePage :46 - clickOnSignIn : [[ChromeDriver: chrome on WINDOWS (769f20dae2101caf1261675abee1112a)] -> xpath: //a[contains(text(),'Sign in')]]
+2022-05-19 21:05:393 INFO  HomePage :43 - clickOnEmail : [[ChromeDriver: chrome on WINDOWS (769f20dae2101caf1261675abee1112a)] -> xpath: //input[@id='email']]
+2022-05-19 21:05:650 INFO  HomePage :49 - clickOnPassword : [[ChromeDriver: chrome on WINDOWS (769f20dae2101caf1261675abee1112a)] -> xpath: //input[@id='passwd']]
+2022-05-19 21:05:648 INFO  HomePage :55 - clickOnSignIn : Proxy element for: DefaultElementLocator 'By.xpath: //body[1]/div[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[2]/form[1]/div[1]/p[2]/button[1]/span[1]'
+2022-05-19 21:05:675 INFO  HomePage :36 - errormessage : [[ChromeDriver: chrome on WINDOWS (769f20dae2101caf1261675abee1112a)] -> css selector: body.authentication.hide-left-column.hide-right-column.lang_en:nth-child(2) div.columns-container div.container div.row:nth-child(3) div.center_column.col-xs-12.col-sm-12 div.alert.alert-danger ol:nth-child(2) > li:nth-child(1)]
+2022-05-19 21:05:732 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-05-19 21:05:276 INFO  HomePage :31 - clickOnWomen : [[ChromeDriver: chrome on WINDOWS (33937f788b1f4513e504d7f98259393d)] -> xpath: //header/div[3]/div[1]/div[1]/div[6]/ul[1]/li[1]/a[1]]
+2022-05-19 21:05:770 INFO  HomePage :130 - clickOnSummerDress : Proxy element for: DefaultElementLocator 'By.xpath: //body/div[@id='page']/div[2]/div[1]/div[3]/div[2]/ul[1]/li[5]/div[1]/div[2]/h5[1]/a[1]'
+2022-05-19 21:05:988 INFO  HomePage :96 - selectQuantity : [[ChromeDriver: chrome on WINDOWS (33937f788b1f4513e504d7f98259393d)] -> xpath: //input[@id='quantity_wanted']]
+2022-05-19 21:05:157 INFO  HomePage :101 - selectSize : [[ChromeDriver: chrome on WINDOWS (33937f788b1f4513e504d7f98259393d)] -> css selector: #group_1]
+2022-05-19 21:05:585 INFO  HomePage :135 - clickOnAddToCart : [[ChromeDriver: chrome on WINDOWS (33937f788b1f4513e504d7f98259393d)] -> xpath: //span[contains(text(),'Add to cart')]]
+2022-05-19 21:05:636 INFO  HomePage :58 - productAddedToCart : [[ChromeDriver: chrome on WINDOWS (33937f788b1f4513e504d7f98259393d)] -> xpath: //body[1]/div[1]/div[1]/header[1]/div[3]/div[1]/div[1]/div[4]/div[1]/div[1]/h2[1]]
+2022-05-19 21:05:831 INFO  HomePage :54 - clickOnXField : [[ChromeDriver: chrome on WINDOWS (33937f788b1f4513e504d7f98259393d)] -> xpath: //header/div[3]/div[1]/div[1]/div[4]/div[1]/div[1]/span[1]]
+2022-05-19 21:05:25 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-05-19 21:05:285 INFO  HomePage :31 - clickOnWomen : [[ChromeDriver: chrome on WINDOWS (b8e2b0bde5b6d00a216dbe090b86d666)] -> xpath: //header/div[3]/div[1]/div[1]/div[6]/ul[1]/li[1]/a[1]]
+2022-05-19 21:05:637 INFO  HomePage :130 - clickOnSummerDress : Proxy element for: DefaultElementLocator 'By.xpath: //body/div[@id='page']/div[2]/div[1]/div[3]/div[2]/ul[1]/li[5]/div[1]/div[2]/h5[1]/a[1]'
+2022-05-19 21:05:812 INFO  HomePage :96 - selectQuantity : [[ChromeDriver: chrome on WINDOWS (b8e2b0bde5b6d00a216dbe090b86d666)] -> xpath: //input[@id='quantity_wanted']]
+2022-05-19 21:05:06 INFO  HomePage :101 - selectSize : [[ChromeDriver: chrome on WINDOWS (b8e2b0bde5b6d00a216dbe090b86d666)] -> css selector: #group_1]
+2022-05-19 21:05:410 INFO  HomePage :135 - clickOnAddToCart : [[ChromeDriver: chrome on WINDOWS (b8e2b0bde5b6d00a216dbe090b86d666)] -> xpath: //span[contains(text(),'Add to cart')]]
+2022-05-19 21:05:442 INFO  HomePage :58 - productAddedToCart : [[ChromeDriver: chrome on WINDOWS (b8e2b0bde5b6d00a216dbe090b86d666)] -> xpath: //body[1]/div[1]/div[1]/header[1]/div[3]/div[1]/div[1]/div[4]/div[1]/div[1]/h2[1]]
+2022-05-19 21:05:488 INFO  HomePage :54 - clickOnXField : [[ChromeDriver: chrome on WINDOWS (b8e2b0bde5b6d00a216dbe090b86d666)] -> xpath: //header/div[3]/div[1]/div[1]/div[4]/div[1]/div[1]/span[1]]
+2022-05-19 21:05:608 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-05-19 21:05:971 INFO  HomePage :31 - clickOnWomen : [[ChromeDriver: chrome on WINDOWS (d72ca352d6666edde44d9233c8877226)] -> xpath: //header/div[3]/div[1]/div[1]/div[6]/ul[1]/li[1]/a[1]]
+2022-05-19 21:05:932 INFO  HomePage :130 - clickOnSummerDress : Proxy element for: DefaultElementLocator 'By.xpath: //body/div[@id='page']/div[2]/div[1]/div[3]/div[2]/ul[1]/li[5]/div[1]/div[2]/h5[1]/a[1]'
+2022-05-19 21:05:113 INFO  HomePage :96 - selectQuantity : [[ChromeDriver: chrome on WINDOWS (d72ca352d6666edde44d9233c8877226)] -> xpath: //input[@id='quantity_wanted']]
+2022-05-19 21:05:273 INFO  HomePage :101 - selectSize : [[ChromeDriver: chrome on WINDOWS (d72ca352d6666edde44d9233c8877226)] -> css selector: #group_1]
+2022-05-19 21:05:717 INFO  HomePage :135 - clickOnAddToCart : [[ChromeDriver: chrome on WINDOWS (d72ca352d6666edde44d9233c8877226)] -> xpath: //span[contains(text(),'Add to cart')]]
+2022-05-19 21:05:763 INFO  HomePage :58 - productAddedToCart : [[ChromeDriver: chrome on WINDOWS (d72ca352d6666edde44d9233c8877226)] -> xpath: //body[1]/div[1]/div[1]/header[1]/div[3]/div[1]/div[1]/div[4]/div[1]/div[1]/h2[1]]
+2022-05-19 21:05:422 INFO  HomePage :54 - clickOnXField : [[ChromeDriver: chrome on WINDOWS (d72ca352d6666edde44d9233c8877226)] -> xpath: //header/div[3]/div[1]/div[1]/div[4]/div[1]/div[1]/span[1]]
+2022-05-19 21:05:663 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-05-19 21:05:232 INFO  HomePage :31 - clickOnWomen : [[ChromeDriver: chrome on WINDOWS (536fa5ffd24c62cb6bffec6ce1593e07)] -> xpath: //header/div[3]/div[1]/div[1]/div[6]/ul[1]/li[1]/a[1]]
+2022-05-19 21:05:398 INFO  HomePage :130 - clickOnSummerDress : Proxy element for: DefaultElementLocator 'By.xpath: //body/div[@id='page']/div[2]/div[1]/div[3]/div[2]/ul[1]/li[5]/div[1]/div[2]/h5[1]/a[1]'
+2022-05-19 21:05:622 INFO  HomePage :96 - selectQuantity : [[ChromeDriver: chrome on WINDOWS (536fa5ffd24c62cb6bffec6ce1593e07)] -> xpath: //input[@id='quantity_wanted']]
+2022-05-19 21:05:809 INFO  HomePage :101 - selectSize : [[ChromeDriver: chrome on WINDOWS (536fa5ffd24c62cb6bffec6ce1593e07)] -> css selector: #group_1]
+2022-05-19 21:05:93 INFO  HomePage :135 - clickOnAddToCart : [[ChromeDriver: chrome on WINDOWS (536fa5ffd24c62cb6bffec6ce1593e07)] -> xpath: //span[contains(text(),'Add to cart')]]
+2022-05-19 21:05:165 INFO  HomePage :58 - productAddedToCart : [[ChromeDriver: chrome on WINDOWS (536fa5ffd24c62cb6bffec6ce1593e07)] -> xpath: //body[1]/div[1]/div[1]/header[1]/div[3]/div[1]/div[1]/div[4]/div[1]/div[1]/h2[1]]
+2022-05-19 21:05:983 INFO  HomePage :54 - clickOnXField : [[ChromeDriver: chrome on WINDOWS (536fa5ffd24c62cb6bffec6ce1593e07)] -> xpath: //header/div[3]/div[1]/div[1]/div[4]/div[1]/div[1]/span[1]]
